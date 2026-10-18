@@ -5,7 +5,7 @@ Each file is a small, runnable example with English comments.
 
 ## Contents
 
-All files are under `src/temeller` (basics):
+### Basics (`src/temeller`)
 
 | File | Topic |
 |---|---|
@@ -16,6 +16,16 @@ All files are under `src/temeller` (basics):
 | `Ders5_Diziler` | Arrays, for-each, `Arrays` helper class, 2D arrays |
 | `Ders6_Stringler` | `String`, `==` vs `equals`, immutability, `StringBuilder` |
 
+### OOP (`src/oop`)
+
+| File | Topic |
+|---|---|
+| `Ders7_SinifVeNesne` | Classes, objects, constructors, `this` |
+| `Ders8_Kapsulleme` | Encapsulation, access modifiers, getters and setters |
+| `Ders9_Static` | `static` fields and methods, `static final` |
+| `Ders10_Kalitim` | Inheritance, `super`, `@Override` |
+| `Ders11_Polimorfizm` | Polymorphism, overloading vs overriding, `instanceof` and casting |
+
 ## How to run
 
 1. Clone the repository
@@ -24,4 +34,5 @@ All files are under `src/temeller` (basics):
 
 ## Status
 
-In progress. Next topics: OOP, collections, exceptions, Java 8+ features.
+In progress. Done: basics and OOP up to polymorphism.
+Next topics: abstraction (abstract class and interface), collections, exceptions, Java 8+ features.
